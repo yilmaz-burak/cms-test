@@ -1,7 +1,8 @@
 backend:
-  name: github
+  name: [ github | gitlab ]
   branch: main
   repo: bouncmpe/seniorprojects
+  base_url: https://netlify-cms.adrianub.vercel.app
 
 search: false
 publish_mode: editorial_workflow
