@@ -27,3 +27,5 @@ Alternatively, you can use `docker` and `vscode` with remote containers
 extension to work inside our development container where all prerequisites are
 installed. Once you open the source directory inside the container, type
 `hugo server` in the terminal and visit the localhost.
+
+test
