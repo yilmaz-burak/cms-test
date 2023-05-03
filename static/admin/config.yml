@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  repo: bouncmpe/seniorprojects
+  repo: yilmaz-burak/cms-test
   base_url: http://157.245.18.69:3000
 
 search: false
