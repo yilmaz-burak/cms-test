@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: bouncmpe/seniorprojects
-  base_url: https://netlify-cms.adrianub.vercel.app
+  base_url: https://d827-2a02-ff0-208-1456-f0de-52ce-771f-2525.eu.ngrok.io
 
 search: false
 publish_mode: editorial_workflow
