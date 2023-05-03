@@ -29,3 +29,4 @@ installed. Once you open the source directory inside the container, type
 `hugo server` in the terminal and visit the localhost.
 
 test
+test2
