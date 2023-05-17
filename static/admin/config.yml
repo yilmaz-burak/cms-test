@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: yilmaz-burak/cms-test
-  base_url: http://209.38.220.198:3000
+  base_url: http://146.190.178.109:3000
 
 search: false
 publish_mode: editorial_workflow
